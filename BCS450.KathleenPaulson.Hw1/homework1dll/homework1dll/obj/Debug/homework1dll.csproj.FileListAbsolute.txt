@@ -1,0 +1,5 @@
+C:\Visual Studio 2015\homework1dll\homework1dll\bin\Debug\homework1dll.dll
+C:\Visual Studio 2015\homework1dll\homework1dll\bin\Debug\homework1dll.pdb
+C:\Visual Studio 2015\homework1dll\homework1dll\obj\Debug\homework1dll.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\homework1dll\homework1dll\obj\Debug\homework1dll.dll
+C:\Visual Studio 2015\homework1dll\homework1dll\obj\Debug\homework1dll.pdb

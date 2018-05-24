@@ -1,0 +1,1 @@
+Name = Civilization 6Platform = PCPrice = 59.99

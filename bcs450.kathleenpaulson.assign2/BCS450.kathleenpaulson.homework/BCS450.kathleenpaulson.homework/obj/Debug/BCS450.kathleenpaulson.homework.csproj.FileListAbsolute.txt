@@ -1,0 +1,8 @@
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\bin\Debug\BCS450.kathleenpaulson.homework.exe.config
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\bin\Debug\BCS450.kathleenpaulson.homework.exe
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\bin\Debug\BCS450.kathleenpaulson.homework.pdb
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\bin\Debug\CourseScheduling.dll
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\bin\Debug\CourseScheduling.pdb
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\obj\Debug\BCS450.kathleenpaulson.homework.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\obj\Debug\BCS450.kathleenpaulson.homework.exe
+C:\Visual Studio 2015\BCS450.kathleenpaulson.homework\BCS450.kathleenpaulson.homework\obj\Debug\BCS450.kathleenpaulson.homework.pdb

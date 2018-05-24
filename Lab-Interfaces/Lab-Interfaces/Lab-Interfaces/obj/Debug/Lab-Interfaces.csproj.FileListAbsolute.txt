@@ -1,0 +1,6 @@
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\bin\Debug\Lab-Interfaces.exe.config
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\bin\Debug\Lab-Interfaces.exe
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\bin\Debug\Lab-Interfaces.pdb
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\obj\Debug\Lab-Interfaces.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\obj\Debug\Lab-Interfaces.exe
+C:\Visual Studio 2015\Lab-Interfaces\Lab-Interfaces\obj\Debug\Lab-Interfaces.pdb

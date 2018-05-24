@@ -1,0 +1,8 @@
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\bin\Debug\Homework1ConsoleApp.exe.config
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\bin\Debug\Homework1ConsoleApp.exe
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\bin\Debug\Homework1ConsoleApp.pdb
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\bin\Debug\homework1dll.dll
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\bin\Debug\homework1dll.pdb
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\obj\Debug\Homework1ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\obj\Debug\Homework1ConsoleApp.exe
+C:\Visual Studio 2015\Homework1ConsoleApp\Homework1ConsoleApp\obj\Debug\Homework1ConsoleApp.pdb

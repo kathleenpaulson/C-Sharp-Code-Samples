@@ -1,0 +1,1 @@
+{"courseMeetings":[{"courseId":1,"dayTime":"MW 8:00am - 9:15am","professorId":1,"roomId":1},{"courseId":2,"dayTime":"MW 9:25am - 10:40am","professorId":2,"roomId":1}]}
