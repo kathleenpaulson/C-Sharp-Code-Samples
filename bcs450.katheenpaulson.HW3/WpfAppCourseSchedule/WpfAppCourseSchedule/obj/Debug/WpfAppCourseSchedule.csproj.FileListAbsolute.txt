@@ -1,0 +1,54 @@
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe.config
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.pdb
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.dll
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.pdb
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.g.cs
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\App.g.cs
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.cache
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.lref
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.baml
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.g.resources
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.Properties.Resources.resources
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.GenerateResource.cache
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CopyComplete
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.exe
+C:\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.pdb
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe.config
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.pdb
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.dll
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.pdb
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csprojResolveAssemblyReference.cache
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.g.cs
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\App.g.cs
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.cache
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.lref
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.baml
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.g.resources
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.Properties.Resources.resources
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.GenerateResource.cache
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CoreCompileInputs.cache
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CopyComplete
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.exe
+C:\Users\kpaul\OneDrive\Visual Studio 2015\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.pdb
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe.config
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.exe
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\WpfAppCourseSchedule.pdb
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.dll
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\bin\Debug\CourseScheduling.pdb
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.g.cs
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\App.g.cs
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.cache
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule_MarkupCompile.lref
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\MainWindow.baml
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.g.resources
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.Properties.Resources.resources
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.GenerateResource.cache
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.csproj.CopyComplete
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.exe
+C:\Visual Studio 2015\Homework 3\WpfAppCourseSchedule\WpfAppCourseSchedule\obj\Debug\WpfAppCourseSchedule.pdb

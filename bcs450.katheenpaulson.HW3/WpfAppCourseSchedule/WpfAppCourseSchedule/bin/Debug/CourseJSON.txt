@@ -1,0 +1,1 @@
+{"courses":[{"credits":123,"description":"this","designator":"aaa","id":1,"number":"34","title":"bbb"},{"credits":123,"description":"this","designator":"aaa","id":1,"number":"34","title":"bbb"},{"credits":123,"description":"this","designator":"aaa","id":1,"number":"34","title":"bbb"},{"credits":123,"description":"this","designator":"aaa","id":1,"number":"34","title":"bbb"}]}

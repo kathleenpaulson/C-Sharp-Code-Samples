@@ -1,0 +1,27 @@
+﻿<Window x:Name="CourseScheduleWindow" x:Class="WpfAppCourseSchedule.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppCourseSchedule"
+        mc:Ignorable="d"
+        Title="Course Schedule - Kathleen Paulson" Height="450" Width="800" Loaded="CourseScheduleWindow_Loaded">
+    <Grid>
+        <Label x:Name="IdLabel" Content="Id" HorizontalAlignment="Left" Margin="31,32,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="IdTextBox" HorizontalAlignment="Left" Height="23" Margin="146,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="DesignatorLabel" Content="Designator" HorizontalAlignment="Left" Margin="31,84,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.108,-0.459"/>
+        <TextBox x:Name="DesignatorTextBox" HorizontalAlignment="Left" Height="23" Margin="146,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="NumberLabel" Content="Number" HorizontalAlignment="Left" Margin="31,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.055,0.063"/>
+        <TextBox x:Name="NumberTextBox" HorizontalAlignment="Left" Height="23" Margin="146,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="TitleLabel" Content="Title" HorizontalAlignment="Left" Margin="31,202,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.464,0.378"/>
+        <TextBox x:Name="TitleTextBox" HorizontalAlignment="Left" Height="23" Margin="146,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="DescriptionLabel" Content="Description" HorizontalAlignment="Left" Margin="31,264,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" Height="23" Margin="147,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="CreditsLabel" Content="Credits" HorizontalAlignment="Left" Margin="31,319,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="CreditsTextBox" HorizontalAlignment="Left" Height="23" Margin="147,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="AddCourseButton" Content="Add Course" HorizontalAlignment="Left" Margin="147,373,0,0" VerticalAlignment="Top" Width="120" Click="AddCourseButton_Click" Height="39"/>
+        <Button x:Name="ReadDataFromFileButton" Content="Read Data From File" HorizontalAlignment="Left" Margin="439,36,0,0" VerticalAlignment="Top" Width="156" Height="41" Click="ReadDataFromFileButton_Click"/>
+        <Button x:Name="ShowCourseDataButton" Content="Show Course Data" HorizontalAlignment="Left" Margin="439,140,0,0" VerticalAlignment="Top" Width="156" Height="39" Click="ShowCourseDataButton_Click"/>
+
+    </Grid>
+</Window>

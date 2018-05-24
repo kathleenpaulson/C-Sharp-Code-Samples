@@ -1,0 +1,1 @@
+{"courses":[{"credits":222,"description":"222","designator":"222","id":123,"number":"222","title":"222"}]}
